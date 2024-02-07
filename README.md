@@ -8,13 +8,17 @@ Conducted **trend analysis** on a daily and monthly basis to identify patterns a
 
 
 # Amazon Sales Dashboard (**POWER BI**)
-Created a dashboard with **POWER BI** to identify **KPI** of Amazon’s Sales.
-Transformed and processed data by using **DAX** function and **MS EXCEL** to ensure data completeness and validity.
+-Created a dashboard with **POWER BI** to identify **KPI** of Amazon’s Sales.
+-Transformed and processed data by using **DAX** function and **MS EXCEL** to ensure data completeness and validity.
 
+This dashboard is designed to provide insights into Amazon sales data, including total revenue, average order value, total product sold, daily and monthly trends for orders, busiest days and times, percentage sales by category and size, and total product sold by category. It can be used by Amazon sellers to identify trends, track sales performance, and make data-driven decisions about their products and marketing strategies.
 ![amazon dashboard](https://github.com/riz1h/Rizwan-s-Portfolio/assets/130273174/99c71d74-d8fb-4d05-aa27-126312ab9ca0)
 
 
 # HR Analytics Dashboard (TABLEAU)
+-Developed a comprehensive HR dashboard to track and analyze KPIs and metrics using TABLEAU.
+-Created an intuitive and user-friendly dashboard to make data driven decision efficiently.
+
 This dashboard is designed to provide insights into human resources data, including employee demographics, attrition rates, job satisfaction ratings, and more. It can be used by HR professionals to identify trends, track progress on HR initiatives, and make data-driven decisions.
 > **([See the Tableau file](https://public.tableau.com/app/profile/rizwan.hassan1388/viz/HRAnalyticsDashboard_17065414097180/HRAnalyticsDashboard))**
 

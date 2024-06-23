@@ -69,12 +69,12 @@ A pie chart displaying revenue percentage by region. The regions are segmented a
 A scatter plot illustrating the relationship between discount percentage and quantity ordered. It shows that higher discounts generally correlate with higher quantities ordered, though there are notable variances.
 
 How to Use this Dashboard:
-Interactive Analysis: Interact with different sections to filter and drill down into specific data points.
-Identifying Trends: Use the line and bar charts to identify revenue trends over time and across different age groups.
-Regional Performance: Utilize the heat map and pie chart to get a clear view of regional performance, aiding in regional strategy planning.
-Gender Preferences: Analyze the gender-wise revenue data to understand product preferences between male and female customers.
-Discount Strategies: Assess the effectiveness of discount strategies on sales volume using the scatter plot.
-This dashboard is a powerful tool for data-driven decision-making, enabling detailed insights into various aspects of customer revenue data.
++ Interactive Analysis: Interact with different sections to filter and drill down into specific data points.
++ Identifying Trends: Use the line and bar charts to identify revenue trends over time and across different age groups.
++ Regional Performance: Utilize the heat map and pie chart to get a clear view of regional performance, aiding in regional strategy planning.
++ Gender Preferences: Analyze the gender-wise revenue data to understand product preferences between male and female customers.
++ Discount Strategies: Assess the effectiveness of discount strategies on sales volume using the scatter plot.
++ This dashboard is a powerful tool for data-driven decision-making, enabling detailed insights into various aspects of customer revenue data.
 
 
 ![image](https://github.com/riz1h/Rizwan-sPortfolio/assets/130273174/eb92e023-ad19-48f7-88cc-25b8adf02dd8)

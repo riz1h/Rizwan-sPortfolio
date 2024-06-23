@@ -43,3 +43,8 @@ Loaded and visualized data to identify **KPI** that can improve sales performanc
 - Conducted **trend analysis** on a daily and monthly basis to identify patterns and fluctuations in Total Orders.
 
 ![18054063_Page_1](https://github.com/riz1h/Rizwan-s-Portfolio/assets/130273174/1831ec5f-b8d7-473a-991e-0448e6433c02) ![18054063_Page_2](https://github.com/riz1h/Rizwan-s-Portfolio/assets/130273174/e41f9775-415a-41a7-8bc5-b431747e196e) ![18054063_Page_3](https://github.com/riz1h/Rizwan-s-Portfolio/assets/130273174/0c16a5af-a693-4023-aaf6-980ee3f46df7)
+
+
+
+
+![image](https://github.com/riz1h/Rizwan-sPortfolio/assets/130273174/eb92e023-ad19-48f7-88cc-25b8adf02dd8)

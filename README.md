@@ -13,7 +13,7 @@ This dashboard can be used to:
 - Improve employee engagement and retention.
 > **([See the Tableau file](https://public.tableau.com/app/profile/rizwan.hassan1388/viz/HRAnalyticsDashboard_17065414097180/HRAnalyticsDashboard))**
 
-![HR Analytics Dashboard](https://github.com/riz1h/Rizwan-sPortfolio/assets/130273174/180a4420-51b3-4371-bb80-575b96895c1c)
+![image](https://github.com/riz1h/Rizwan-sPortfolio/assets/130273174/e24b58df-3651-44e4-ad54-59e558952808)
 
 
 

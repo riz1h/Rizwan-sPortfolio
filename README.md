@@ -1,4 +1,42 @@
 
+# Customer Analysis Dashboard: Gaining Insights into Sales Performance 📊 (**TABLEAU**)
+
+I'm excited to share this Customer Analysis Dashboard created using Tableau Public Desktop. This comprehensive dashboard provides a detailed overview of customer revenue data segmented by various categories such as time, geography, demographics, and discounts. Here’s a breakdown of its key features:
+
+📅 Revenue per Month
+This line chart displays monthly revenue from October 2020 to September 2021. Notable peaks are observed in December 2020 ($58M) and March 2021 ($37M), indicating higher sales during these periods.
+
+🗺️ Revenue per State
+The heat map shows revenue distribution across different states in the USA. States like California ($13.88M), Texas ($15.47M), and Florida ($10.16M) lead with the highest revenue figures.
+
+👥 Revenue per Age
+This bar chart breaks down revenue by customer age groups. The age group 30-39 generates the highest revenue ($44.78M), followed by 60-69 ($41.09M).
+
+🚻 Revenue Gender Wise
+This section presents revenue data categorized by gender and product category. Females generate the highest revenue in the 'Beauty & Grooming' category ($66.27M), while males contribute the most in the 'Electronics' category ($63.85M).
+
+🌍 Revenue Percentage per Region
+A pie chart displaying revenue percentage by region. The regions are segmented as 26.93%, 17.60%, 17.10%, and 38.37%, representing different regional contributions to the total revenue.
+
+📉 Quantity Discount Correlation
+A scatter plot illustrating the relationship between discount percentage and quantity ordered. It shows that higher discounts generally correlate with higher quantities ordered, though there are notable variances.
+
+How to Use this Dashboard:
++ Interactive Analysis: Interact with different sections to filter and drill down into specific data points.
++ Identifying Trends: Use the line and bar charts to identify revenue trends over time and across different age groups.
++ Regional Performance: Utilize the heat map and pie chart to get a clear view of regional performance, aiding in regional strategy planning.
++ Gender Preferences: Analyze the gender-wise revenue data to understand product preferences between male and female customers.
++ Discount Strategies: Assess the effectiveness of discount strategies on sales volume using the scatter plot.
++ This dashboard is a powerful tool for data-driven decision-making, enabling detailed insights into various aspects of customer revenue data.
+
+
+
+> **([See the Tableau file](https://public.tableau.com/app/profile/rizwan.hassan1388/viz/CustomerAnalysisDashboard_17191278560960/Dashboard1?publish=yes))**
+
+![image](https://github.com/riz1h/Rizwan-sPortfolio/assets/130273174/eb92e023-ad19-48f7-88cc-25b8adf02dd8)
+
+
+
 # HR Analytics Dashboard (TABLEAU)
 - Developed a comprehensive HR dashboard to track and analyze KPIs and metrics using TABLEAU.
 - Created an intuitive and user-friendly dashboard to make data driven decision efficiently.
@@ -46,38 +84,3 @@ Loaded and visualized data to identify **KPI** that can improve sales performanc
 
 
 
-# Customer Analysis Dashboard: Gaining Insights into Sales Performance 📊 (**TABLEAU**)
-
-I'm excited to share this Customer Analysis Dashboard created using Tableau Public Desktop. This comprehensive dashboard provides a detailed overview of customer revenue data segmented by various categories such as time, geography, demographics, and discounts. Here’s a breakdown of its key features:
-
-📅 Revenue per Month
-This line chart displays monthly revenue from October 2020 to September 2021. Notable peaks are observed in December 2020 ($58M) and March 2021 ($37M), indicating higher sales during these periods.
-
-🗺️ Revenue per State
-The heat map shows revenue distribution across different states in the USA. States like California ($13.88M), Texas ($15.47M), and Florida ($10.16M) lead with the highest revenue figures.
-
-👥 Revenue per Age
-This bar chart breaks down revenue by customer age groups. The age group 30-39 generates the highest revenue ($44.78M), followed by 60-69 ($41.09M).
-
-🚻 Revenue Gender Wise
-This section presents revenue data categorized by gender and product category. Females generate the highest revenue in the 'Beauty & Grooming' category ($66.27M), while males contribute the most in the 'Electronics' category ($63.85M).
-
-🌍 Revenue Percentage per Region
-A pie chart displaying revenue percentage by region. The regions are segmented as 26.93%, 17.60%, 17.10%, and 38.37%, representing different regional contributions to the total revenue.
-
-📉 Quantity Discount Correlation
-A scatter plot illustrating the relationship between discount percentage and quantity ordered. It shows that higher discounts generally correlate with higher quantities ordered, though there are notable variances.
-
-How to Use this Dashboard:
-+ Interactive Analysis: Interact with different sections to filter and drill down into specific data points.
-+ Identifying Trends: Use the line and bar charts to identify revenue trends over time and across different age groups.
-+ Regional Performance: Utilize the heat map and pie chart to get a clear view of regional performance, aiding in regional strategy planning.
-+ Gender Preferences: Analyze the gender-wise revenue data to understand product preferences between male and female customers.
-+ Discount Strategies: Assess the effectiveness of discount strategies on sales volume using the scatter plot.
-+ This dashboard is a powerful tool for data-driven decision-making, enabling detailed insights into various aspects of customer revenue data.
-
-
-
-> **([See the Tableau file](https://public.tableau.com/app/profile/rizwan.hassan1388/viz/CustomerAnalysisDashboard_17191278560960/Dashboard1?publish=yes))**
-
-![image](https://github.com/riz1h/Rizwan-sPortfolio/assets/130273174/eb92e023-ad19-48f7-88cc-25b8adf02dd8)

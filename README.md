@@ -77,4 +77,7 @@ How to Use this Dashboard:
 + This dashboard is a powerful tool for data-driven decision-making, enabling detailed insights into various aspects of customer revenue data.
 
 
+
+> **([See the Tableau file](https://public.tableau.com/app/profile/rizwan.hassan1388/viz/CustomerAnalysisDashboard_17191278560960/Dashboard1?publish=yes))**
+
 ![image](https://github.com/riz1h/Rizwan-sPortfolio/assets/130273174/eb92e023-ad19-48f7-88cc-25b8adf02dd8)
